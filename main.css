@@ -17,6 +17,13 @@ footer {
     width: 100%;
     bottom: 0;
     font-size: 12px;
+    position: fixed;
+    bottom: 0px;
+}
+
+#enigma-output{
+    color: green;
+    background-color: black;
 }
 
 button {
